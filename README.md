@@ -7,4 +7,9 @@ How do I blit bytecode onto an existing texture keeping the rgb values that alre
 
 The issue to be solved is how to blit bytecode onto a single texture without the overwritting existing bytcode. See below
 
+ISSUE:
 ![alt-text](https://github.com/Sunnigen/2D-Top-Down-Test/blob/master/overwriting_tex_example.gif)
+
+GOAL:
+![Figure 1-1](https://github.com/Sunnigen/2D-Top-Down-Test/blob/master/trees_example.png"Figure 1-1")
+
