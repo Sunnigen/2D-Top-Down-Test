@@ -11,5 +11,5 @@ ISSUE:
 ![alt-text](https://github.com/Sunnigen/2D-Top-Down-Test/blob/master/overwriting_tex_example.gif)
 
 GOAL:
-![Figure 1-1](https://github.com/Sunnigen/2D-Top-Down-Test/blob/master/trees_example.png"Figure 1-1")
+![alt-text](https://github.com/Sunnigen/2D-Top-Down-Test/blob/master/trees_example.png)
 
