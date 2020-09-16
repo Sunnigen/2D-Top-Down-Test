@@ -19,7 +19,7 @@ from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.stencilview import StencilView
 from kivy.uix.widget import Widget
 
-from kivyparticle.kivyparticle import ParticleSystem as KivyParticleSystem
+# from kivyparticle.kivyparticle import ParticleSystem as KivyParticleSystem
 
 from ca import CellularAutomata
 
